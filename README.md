@@ -13,12 +13,12 @@ Please also check out SG-API's latest [Medium article released in December of 20
 5. **Explainable AI** that discusses the logic behind (5.1) how each sub-cluster is formed, (5.2) the meaning of the distance calculations between each query/large cluster, and (5.3) how the AI understands the meaning of your query
 
 ## Contributors \& Community
+- [Cindy Lin](https://github.com/Jyue)
 - [Seth Harding](https://github.com/sethhasi)
 - [Mark Chen](https://github.com/MarkCodering)
-- [Cindy Lin](https://github.com/Jyue)
 
-Feel free to hop on our Discord server, Data-X.  
-The Data-X Community is a new and growing group of developers (primarily app developers and data scientists).
+Feel free to hop on [our Discord server, Data-X](https://discord.gg/eEduRZwcvA).  
+The Data-X Community is a new and growing platform for developers to exchange ideas and opportunities. It's also becoming our hub for discussing our projects: an AI-powered notetaking app called DragonNote and, yes, for SG-API!
 
 ## Contribution Guidelines
 We welcome contributions to SG-API! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request.
